@@ -1,0 +1,1 @@
+﻿interface IManager { void Manage(); }
